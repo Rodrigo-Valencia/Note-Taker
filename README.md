@@ -12,7 +12,7 @@ Allows users to write and save notes.
 * Deployed a server-side application to the Heroku platform.
 
 ### Link 
-[Link to the deployed website]()
+[Link to the deployed website on Heroku](https://hidden-shelf-65601.herokuapp.com/)
 
 ### Reference 
 ![Screenshot of index.html](/public/assets/img/11-express-homework-demo-01.png)
